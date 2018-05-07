@@ -1,0 +1,61 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codcli: 1.5
+  razsocial: MyString
+  nif: MyString
+  siglas: MyString
+  calle: MyString
+  numero: MyString
+  direccion: MyString
+  codpos: MyString
+  municipio: MyString
+  representada: MyString
+  dni: MyString
+  cargo: MyString
+  nsscia: MyString
+  cnae: MyString
+  telefono: MyString
+  telefono1: MyString
+  fax: MyString
+  pago: 1.5
+  diapago1: 1
+  diapago2: 1
+  ncentro: 1.5
+  fecmod: 2018-05-07 07:24:54
+  politicafra: 1.5
+  iva: 1.5
+  req: 1.5
+  nombrebco: MyString
+  ncuenta: MyString
+  margencli: 9.99
+
+two:
+  codcli: 1.5
+  razsocial: MyString
+  nif: MyString
+  siglas: MyString
+  calle: MyString
+  numero: MyString
+  direccion: MyString
+  codpos: MyString
+  municipio: MyString
+  representada: MyString
+  dni: MyString
+  cargo: MyString
+  nsscia: MyString
+  cnae: MyString
+  telefono: MyString
+  telefono1: MyString
+  fax: MyString
+  pago: 1.5
+  diapago1: 1
+  diapago2: 1
+  ncentro: 1.5
+  fecmod: 2018-05-07 07:24:54
+  politicafra: 1.5
+  iva: 1.5
+  req: 1.5
+  nombrebco: MyString
+  ncuenta: MyString
+  margencli: 9.99
