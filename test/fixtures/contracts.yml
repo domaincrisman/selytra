@@ -1,0 +1,111 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ncontrato: 1.5
+  codcli: 1.5
+  codoper: 1.5
+  regimen: MyString
+  causajustificante: MyText
+  supuestocelebra: 1.5
+  tipocontrato: 1
+  grupocotizacion: 1.5
+  epigrafeat: 1.5
+  diastrabsisesp: 1.5
+  coefpermansisesp: 1.5
+  prestaraservicio: MyString
+  categoria: MyString
+  funciones: MyString
+  tarea: MyString
+  riesgos: MyString
+  instalcolectivas: MyString
+  ubicaciontrabajo: MyString
+  horasjornada: 1.5
+  jornadadesde: MyString
+  jornadahasta: MyString
+  horario: MyString
+  tiporetribucion: MyString
+  cadenciaretribucion: MyString
+  prueba: MyString
+  vacaciones: MyString
+  duraciondesde: 2018-05-09 09:56:57
+  duracionhasta: 2018-05-09 09:56:57
+  objeto: MyString
+  oficinaempleo: MyString
+  conveniocolectivo: MyString
+  salbrutoanual: 1.5
+  numhorasanual: 1
+  margencont: 9.99
+  prconvenidocltenormal: 1.5
+  prconvenidoclteextra: 1.5
+  prconvenidocltefestiva: 1.5
+  prconvenidocltenocturna: 1.5
+  prconvenidoopernormal: 1.5
+  prconvenidooperextra: 1.5
+  prconvenidooperfestiva: 1.5
+  prconvenidoopernocturna: 1.5
+  pago: 1.5
+  ncentro: 1.5
+  fecmod: 2018-05-09 09:56:57
+  nmatricula: MyString
+  baja: MyString
+  causabaja: MyString
+  conceptosal: MyString
+  observaciones: MyString
+  clausulasadicionales: MyText
+  Client: one
+  Employee: one
+
+two:
+  ncontrato: 1.5
+  codcli: 1.5
+  codoper: 1.5
+  regimen: MyString
+  causajustificante: MyText
+  supuestocelebra: 1.5
+  tipocontrato: 1
+  grupocotizacion: 1.5
+  epigrafeat: 1.5
+  diastrabsisesp: 1.5
+  coefpermansisesp: 1.5
+  prestaraservicio: MyString
+  categoria: MyString
+  funciones: MyString
+  tarea: MyString
+  riesgos: MyString
+  instalcolectivas: MyString
+  ubicaciontrabajo: MyString
+  horasjornada: 1.5
+  jornadadesde: MyString
+  jornadahasta: MyString
+  horario: MyString
+  tiporetribucion: MyString
+  cadenciaretribucion: MyString
+  prueba: MyString
+  vacaciones: MyString
+  duraciondesde: 2018-05-09 09:56:57
+  duracionhasta: 2018-05-09 09:56:57
+  objeto: MyString
+  oficinaempleo: MyString
+  conveniocolectivo: MyString
+  salbrutoanual: 1.5
+  numhorasanual: 1
+  margencont: 9.99
+  prconvenidocltenormal: 1.5
+  prconvenidoclteextra: 1.5
+  prconvenidocltefestiva: 1.5
+  prconvenidocltenocturna: 1.5
+  prconvenidoopernormal: 1.5
+  prconvenidooperextra: 1.5
+  prconvenidooperfestiva: 1.5
+  prconvenidoopernocturna: 1.5
+  pago: 1.5
+  ncentro: 1.5
+  fecmod: 2018-05-09 09:56:57
+  nmatricula: MyString
+  baja: MyString
+  causabaja: MyString
+  conceptosal: MyString
+  observaciones: MyString
+  clausulasadicionales: MyText
+  Client: two
+  Employee: two

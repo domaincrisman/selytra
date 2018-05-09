@@ -1,0 +1,61 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codoper: 1.5
+  nombre: MyString
+  apellido1: MyString
+  apellido2: MyString
+  siglas: MyString
+  calle: MyString
+  numero: MyString
+  direccion: MyString
+  codpos: MyString
+  municipio: MyString
+  nacionalidad: MyString
+  telefono: MyString
+  telefono1: MyString
+  dni: MyString
+  nss: MyString
+  docidentificativo: MyString
+  regimen: MyString
+  fecmod: 2018-05-09 09:50:14
+  fecnacimiento: 2018-05-09 09:50:14
+  lugarnacimiento: MyString
+  sexo: MyString
+  volveravisar: false
+  observaciones: MyString
+  Iban: MyString
+  banco: MyString
+  oficina: MyString
+  dc: MyString
+  cuenta: MyString
+
+two:
+  codoper: 1.5
+  nombre: MyString
+  apellido1: MyString
+  apellido2: MyString
+  siglas: MyString
+  calle: MyString
+  numero: MyString
+  direccion: MyString
+  codpos: MyString
+  municipio: MyString
+  nacionalidad: MyString
+  telefono: MyString
+  telefono1: MyString
+  dni: MyString
+  nss: MyString
+  docidentificativo: MyString
+  regimen: MyString
+  fecmod: 2018-05-09 09:50:14
+  fecnacimiento: 2018-05-09 09:50:14
+  lugarnacimiento: MyString
+  sexo: MyString
+  volveravisar: false
+  observaciones: MyString
+  Iban: MyString
+  banco: MyString
+  oficina: MyString
+  dc: MyString
+  cuenta: MyString
