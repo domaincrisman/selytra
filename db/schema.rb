@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_05_09_075657) do
+ActiveRecord::Schema.define(version: 2018_05_09_122259) do
 
   create_table "active_admin_comments", force: :cascade do |t|
     t.string "namespace"
@@ -160,7 +160,7 @@ ActiveRecord::Schema.define(version: 2018_05_09_075657) do
     t.string "sexo"
     t.boolean "volveravisar"
     t.string "observaciones"
-    t.string "Iban"
+    t.string "iban"
     t.string "banco"
     t.string "oficina"
     t.string "dc"
