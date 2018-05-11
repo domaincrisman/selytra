@@ -1,5 +1,7 @@
 {
   "name": "selytra",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery-datetimepicker": "^2.5.20"
+  }
 }

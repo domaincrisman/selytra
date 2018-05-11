@@ -12,4 +12,25 @@ ActiveAdmin.register Employee do
 #   permitted
 # end
 
+index do
+  selectable_column
+  column :codoper
+  column :nombre
+  column :apellido1
+  column :apellido2
+  actions
+end
+
+form do |f|
+    f.inputs do
+      f.input :codoper
+      f.input :nombre
+      f.input :apellido1
+      f.input :apellido2
+      f.input :fecmod, as: :datepicker
+      f.input :fecnacimiento, as: :date_picker
+    end
+    f.actions
+  end
+
 end

@@ -12,6 +12,14 @@ ActiveAdmin.register Client do
 #   permitted
 # end
 
+index do
+  selectable_column
+  column :codcli
+  column :razsocial
+  column :nif
+  actions
+end
+
 form do |f|
     f.inputs do
       f.input :codcli
